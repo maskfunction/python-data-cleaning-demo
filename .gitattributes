@@ -1,0 +1,4 @@
+* text=auto eol=lf
+sample/input.jsonl binary
+result/input.original binary
+result/*.jsonl -text

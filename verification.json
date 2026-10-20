@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Mixed corruption: 8 lines = 2 accepted + 6 quarantined; values correct.",
+    "Every input byte preserved; bad-record base64 and all line hashes verified.",
+    "UTF-8 BOM, CRLF, escaped newline, and final line without newline handled.",
+    "Rerun into existing destination refused without changing any output file.",
+    "Empty file produces a valid zero-record report.",
+    "Nested duplicates, lone surrogate, numeric overflow, and joined records quarantined.",
+    "Large integer preserved exactly.",
+    "Missing input fails before creating output."
+  ]
+}
