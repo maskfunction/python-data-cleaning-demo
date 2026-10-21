@@ -4,6 +4,16 @@
 
 这是自建演示，数据为合成样例。代码使用 AI 辅助编写，并经过实际运行验证。它不是客户案例，也不是通用的数据恢复产品。
 
+## 35 秒演示 / 35-second demo
+
+35 秒中文旁白合成演示：8 行输入中，2 行接受、6 行隔离。展示校验、隔离与原件保全，不会恢复全部数据，也不是客户案例。
+
+A 35-second, AI-assisted synthetic demo with Chinese narration: 2 of 8 input lines are accepted and 6 are quarantined. It demonstrates validation, quarantine, and source preservation. It does not recover all data and is not a customer case.
+
+<img src="media/jsonl-preview.png" width="360" alt="Synthetic JSONL demo: 2 lines accepted, 6 quarantined">
+
+[观看／下载视频 · Watch or download MP4](media/jsonl-demo.mp4) · [查看预览图 · View preview](media/jsonl-preview.png)
+
 ## 运行
 
 需要 Python 3.10 或以上版本，仅使用标准库。
